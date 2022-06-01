@@ -1,1 +1,0 @@
-cargue archivo txt
